@@ -1,0 +1,1 @@
+A repo for demo examples regarding interactions with Azure Storages, include tables, blobs, etc.
